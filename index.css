@@ -30,7 +30,7 @@ button{
 }
 
 button:hover{
-    background-color: rgb(7, 148, 0);   /* :hover = para que se marque cuando pasamos el cursor por encima mas animaciones */
+    background-color: rgb(7, 148, 0);   /* :hover = para que se marque cuando pasamos el cursor por encima + animaciones */
 
     animation-name: button;
         -webkit-animation-name: button;
